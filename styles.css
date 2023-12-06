@@ -18,14 +18,14 @@ header {
 nav ul {
     list-style: none;
     display: flex;
-    margin-left: -16px;
+    margin-left: -8px;
 }
 
 nav li {
     background-color: red;
     border: 2px solid white;
     color: white;
-    flex: 0 1 30%;
+    flex: 0 1 25%;
 }
 
 nav li a {
