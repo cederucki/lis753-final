@@ -17,12 +17,14 @@ header {
 
 nav ul {
     list-style: none;
+    display: flex;
 }
 
 nav li {
     background-color: red;
     border: 2px solid white;
     color: white;
+    flex: 1 1 30%;
 }
 
 nav li a {
