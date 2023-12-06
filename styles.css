@@ -23,3 +23,9 @@ footer {
 nav ul {
     list-style: none;
 }
+
+nav li {
+    background-color: red;
+    border: 2px solid white;
+    color: white;
+}
