@@ -8,3 +8,18 @@ body {
     margin: -16px auto;
     padding: 16px;
 }
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+}
