@@ -15,11 +15,6 @@ header {
     text-align: center;
 }
 
-footer {
-    background-color: black;
-    color: white;
-}
-
 nav ul {
     list-style: none;
 }
@@ -27,5 +22,18 @@ nav ul {
 nav li {
     background-color: red;
     border: 2px solid white;
+    color: white;
+}
+
+nav li a {
+    color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+footer a {
     color: white;
 }
