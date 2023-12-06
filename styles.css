@@ -26,6 +26,7 @@ nav li {
     border: 2px solid white;
     color: white;
     flex: 0 1 25%;
+    justify-content: space-between;
 }
 
 nav li a {
