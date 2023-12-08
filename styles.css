@@ -24,7 +24,9 @@ header {
     font-size: 48px;
 }
 
-.page-heading
+.page-heading {
+    background-color: #D6D2C4;
+}
 
 nav ul {
     list-style: none;
