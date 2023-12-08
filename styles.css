@@ -44,7 +44,8 @@ nav li a {
 footer {
     background-color: black;
     color: white;
-    margin: 0 -200px;
+    width: 100%
+    /*margin: -16px -150px;*/
 }
 
 footer a {
