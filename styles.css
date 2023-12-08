@@ -13,14 +13,14 @@ header {
     background-color: black;
     color: white;
     text-align: center;
-    margin: 0 -100px;
+    margin: 0 -200px;
     padding: 8px;
 }
 
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 nav li {
