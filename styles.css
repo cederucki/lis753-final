@@ -1,5 +1,5 @@
 html {
-    background-color: #BA0C2F;
+    background-color: #E4002B;
 }
 
 body {
@@ -24,8 +24,7 @@ nav ul {
 }
 
 nav li {
-    background-color: #BA0C2F
-    ;
+    background-color: #E4002B;
     border: 2px solid white;
     color: white;
     flex: 0 1 25%;
