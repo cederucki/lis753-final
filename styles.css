@@ -30,6 +30,7 @@ header {
     padding: 8px;
     letter-spacing: 4px;
     text-align: center;
+    border-top: 4px solid black;
 }
 
 nav ul {
