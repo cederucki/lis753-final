@@ -26,9 +26,10 @@ header {
 
 .page-heading {
     background-color: #D6D2C4;
-    margin: -32px -150px;
+    margin: -16px -150px;
     padding: 8px;
     letter-spacing: 4px;
+    text-align: center;
 }
 
 nav ul {
