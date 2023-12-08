@@ -1,5 +1,5 @@
 html {
-    background-color: red;
+    background-color: #BA0C2F;
 }
 
 body {
@@ -13,7 +13,6 @@ header {
     background-color: black;
     color: white;
     text-align: center;
-    width: 100%;
     margin: 0 -100px;
     padding: 8px;
 }
@@ -25,7 +24,8 @@ nav ul {
 }
 
 nav li {
-    background-color: red;
+    background-color: #BA0C2F
+    ;
     border: 2px solid white;
     color: white;
     flex: 0 1 25%;
