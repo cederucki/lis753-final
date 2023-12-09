@@ -54,7 +54,8 @@ footer {
     background-color: black;
     color: white;
     margin: 0 -150px -16px -150px;
-    padding: 8px 16px;
+    padding: 8px 24px;
+    border-top: 4px solid #9EA2A2;
 }
 
 footer a {
