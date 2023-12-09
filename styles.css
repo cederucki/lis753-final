@@ -103,4 +103,8 @@ footer a {
     #intro {
         display: block;
     }
+
+    footer p {
+        text-align: center;
+    }
 }
