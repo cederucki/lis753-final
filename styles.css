@@ -46,6 +46,10 @@ nav li {
     flex: 0 1 25%;
 }
 
+nav li:hover {
+    background-color: #00A3AD;
+}
+
 nav li a {
     color: white;
 }
