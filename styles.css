@@ -66,6 +66,7 @@ img {
 
 figcaption {
     font-weight: 200;
+    text-align: right;
 }
 
 #intro p {
