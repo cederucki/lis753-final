@@ -59,10 +59,10 @@ figure {
     flex: 1 1 45%
 }
 
-img {
+/*img {
     max-width: 45%;
     height: auto;
-}
+}*/
 
 figcaption {
     font-weight: 200;
