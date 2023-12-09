@@ -83,6 +83,10 @@ td {
     padding: 4px;
 }
 
+th {
+    border-bottom: 2px solid black;
+}
+
 footer {
     background-color: black;
     color: white;
