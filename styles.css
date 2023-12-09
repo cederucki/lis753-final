@@ -50,9 +50,13 @@ nav li a {
     color: white;
 }
 
+#intro {
+    display: flex;
+}
+
 figure {
     padding: 8px;
-    float: right;
+    flex: 1 1 45%
 }
 
 img {
@@ -62,6 +66,10 @@ img {
 
 figcaption {
     font-weight: 200;
+}
+
+#intro p {
+    flex: 1 1 45%;
 }
 
 footer {
