@@ -94,3 +94,13 @@ footer {
 footer a {
     color: white;
 }
+
+@media screen and (max-width: 1000px) {
+    nav ul {
+        display: block;
+    }
+
+    #intro {
+        display: block;
+    }
+}
