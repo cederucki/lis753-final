@@ -50,6 +50,11 @@ nav li a {
     color: white;
 }
 
+img {
+    max-width: 45%;
+    height: auto;
+}
+
 footer {
     background-color: black;
     color: white;
