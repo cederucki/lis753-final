@@ -56,7 +56,7 @@ nav li a {
 
 figure {
     padding: 8px;
-    flex: 1 1 45%
+    flex: 1 1 75%
 }
 
 img {
@@ -69,7 +69,7 @@ figcaption {
 }
 
 #intro p {
-    flex: 1 1 45%;
+    flex: 1 1 25%;
 }
 
 footer {
