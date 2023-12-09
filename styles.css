@@ -52,6 +52,7 @@ nav li a {
 
 #intro {
     display: flex;
+    justify-content: space-between;
 }
 
 figure {
