@@ -87,6 +87,10 @@ td {
     padding: 4px;
 }
 
+main a {
+    color: #00A3AD;
+}
+
 footer {
     background-color: black;
     color: white;
